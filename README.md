@@ -3,7 +3,7 @@ This is an MCQ test portal for conducting MCQ tests online.
 
 ## Features of our project
 
-1. Admin can add users,test-setters and questions setters. 
+1. Admin can add Users,Test-Setters and Questions Setters. 
 2. The permissions of all the users can be changed by the admin.
 3. Admin has access to all the features of other users.
 4. Question-setters can add new questions and can edit and delete them.
